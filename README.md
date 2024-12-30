@@ -22,3 +22,27 @@ Powered by Wix Studio, we are continuously making improvements to provide you wi
 **Try It Now**
 
 Explore the beta and enjoy early access to version 1.59. Your feedback is invaluable—let us know what you think!
+
+Legal Notice
+
+All content, including but not limited to HTML code, scripts, design, and other materials, available on this website is the property of Tim Reckner.com Group. Unauthorized reproduction, copying, redistribution, or use of any part of the code or content without explicit written permission is strictly prohibited.
+
+
+
+By accessing this website, you agree not to:
+
+	1.	Copy, paste, or replicate any code from the website.
+
+	2.	Re-upload, modify, or redistribute the website’s code or content for any purpose.
+
+	3.	Use or steal the website’s code for personal or commercial use.
+
+Violations of this legal notice may result in legal action under applicable copyright and intellectual property laws.
+
+
+
+If you wish to seek permission for the use of any content, please contact us directly through our official communication channels.
+
+
+
+Tim Reckner.com Group retains all rights to the website and its content.
