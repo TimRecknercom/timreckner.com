@@ -46,3 +46,7 @@ If you wish to seek permission for the use of any content, please contact us dir
 
 
 Tim Reckner.com Group retains all rights to the website and its content.
+
+Continue to website!
+
+https://rtim79692.wixstudio.com/timrecknercom
