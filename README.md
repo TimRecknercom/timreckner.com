@@ -1,6 +1,5 @@
-![channels4_profile](https://github.com/user-attachments/assets/8e199eed-bb7c-4c86-bf2c-58917dfcde1f)
+![Screenshot 2024-12-30 195659](https://github.com/user-attachments/assets/5177d55b-9eb5-4284-9934-4706b2fbc1d0) TimReckner.com Terms of Use and Privacy Policy
 
- TimReckner.com
 We are excited to announce the release of Tim Reckner.com Beta version 1.59! This update significantly improves the site, ensuring a smoother and more user-friendly experience.
 
 What’s New and Improved:
