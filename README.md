@@ -1,4 +1,4 @@
-# timreckner.com
+# TimReckner.com
 We are excited to announce the release of Tim Reckner.com Beta version 1.59! This update significantly improves the site, ensuring a smoother and more user-friendly experience.
 
 What’s New and Improved:
