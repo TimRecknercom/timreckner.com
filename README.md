@@ -1,4 +1,6 @@
-![Screenshot 2024-12-30 195659](https://github.com/user-attachments/assets/5177d55b-9eb5-4284-9934-4706b2fbc1d0) TimReckner.com Terms of Use and Privacy Policy
+![Screenshot 2024-12-30 195659](https://github.com/user-attachments/assets/5177d55b-9eb5-4284-9934-4706b2fbc1d0) 
+
+TimReckner.com Terms of Use and Privacy Policy
 
 We are excited to announce the release of Tim Reckner.com Beta version 1.59! This update significantly improves the site, ensuring a smoother and more user-friendly experience.
 
