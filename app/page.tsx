@@ -26,7 +26,7 @@ export default function Home() {
             <Link href="/" className="font-medium hover:text-red-600 transition-colors">
               Home
             </Link>
-            <Link href="/tim-gaming" className="font-medium hover:text-red-600 transition-colors">
+            <Link href="/tim-gaming" className="font-medium hover:text-red-600 transition-colors space-y-px">
               Tim Gaming
             </Link>
             <Link href="/faq" className="font-medium hover:text-red-600 transition-colors">
