@@ -16,7 +16,7 @@ export default function Home() {
                 alt="TimReckner.com Logo"
                 width={40}
                 height={40}
-                className="rounded text-slate-500"
+                className="rounded text-slate-500 bg-slate-950"
               />
             </div>
             <h1 className="text-xl font-bold">TimReckner.com</h1>
